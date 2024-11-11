@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Order Management Flows">
-    <mxGraphModel dx="826" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1074" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -94,25 +94,25 @@
           <mxGeometry x="10" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-25" value="Sample Set Up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-26" value="Genexus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-27" value="Load Plate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="830" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-28" value="Sequencing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="890" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-29" value="Integrity Check" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="950" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="940" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-30" value="Demux" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-31" value="Data Transfer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="1070" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8PnTd8hKarzxt9t4eZ3A-32" value="Data Innovations" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="585" width="120" height="40" as="geometry" />
