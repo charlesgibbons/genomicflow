@@ -778,7 +778,7 @@
           <mxGeometry x="180" y="1415" width="1200" height="677" as="geometry" />
         </mxCell>
         <mxCell id="j5uv8GgnpOnejdaKWJX--2" value="Order Management, Product Catalogue, Sample Reception, Barcoding, Ticketing" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="22" y="24" width="520" height="290" as="geometry" />
+          <mxGeometry x="22" y="24" width="1048" height="290" as="geometry" />
         </mxCell>
         <mxCell id="sWXQUwif85CH72TuD-E2-1" value="LIMS &amp;amp; Clinical Systems" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="22" y="344" width="520" height="290" as="geometry" />
@@ -809,19 +809,6 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkXbsiPV4ITowW2MiCtW-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;" edge="1" target="tkXbsiPV4ITowW2MiCtW-5" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="325" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tkXbsiPV4ITowW2MiCtW-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;" edge="1" target="tkXbsiPV4ITowW2MiCtW-5" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="325" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tkXbsiPV4ITowW2MiCtW-5" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="320" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="tkXbsiPV4ITowW2MiCtW-6" value="«National Orders»&lt;br&gt;&lt;b&gt;NGTD (202x)&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="180" height="90" as="geometry" />
         </mxCell>
@@ -834,6 +821,62 @@
           <mxGeometry x="50" y="180" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="soTW44mCso-XB1i6FQYs-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="soTW44mCso-XB1i6FQYs-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soTW44mCso-XB1i6FQYs-3" value="«Labelling»&lt;br&gt;&lt;b&gt;Zebra&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="soTW44mCso-XB1i6FQYs-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="soTW44mCso-XB1i6FQYs-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="soTW44mCso-XB1i6FQYs-5" value="«3rd Party Orders»&lt;br&gt;&lt;b&gt;LIFE&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="soTW44mCso-XB1i6FQYs-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="soTW44mCso-XB1i6FQYs-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-1" value="«NLP Paper Scanning Function»&lt;br&gt;&lt;b&gt;Azure AI Document Intelligence&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Bgs0j6h_M0YM2239oZcv-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-3" value="«Inbound Ticketing»&lt;br&gt;&lt;b&gt;ServiceNow&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="647" y="70" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Bgs0j6h_M0YM2239oZcv-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-5" value="«Sample Reception»&lt;br&gt;&lt;b&gt;EPIC BEAKER&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="647" y="180" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Bgs0j6h_M0YM2239oZcv-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-7" value="«Outbound Messaging»&lt;br&gt;&lt;b&gt;VIE+ on BizTalk&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="840" y="70" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Bgs0j6h_M0YM2239oZcv-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-9" value="«Master Lab LIMS»&lt;br&gt;&lt;b&gt;EPIC BEAKER&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bgs0j6h_M0YM2239oZcv-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Bgs0j6h_M0YM2239oZcv-9">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
