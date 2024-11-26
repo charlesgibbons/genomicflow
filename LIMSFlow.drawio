@@ -830,6 +830,14 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="soTW44mCso-XB1i6FQYs-1" value="«Integration Bus»&lt;br&gt;&lt;b&gt;VIE+ on BizTalk&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="soTW44mCso-XB1i6FQYs-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="soTW44mCso-XB1i6FQYs-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
