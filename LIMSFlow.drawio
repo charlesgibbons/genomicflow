@@ -780,14 +780,8 @@
         <mxCell id="j5uv8GgnpOnejdaKWJX--2" value="Order Management, Product Catalogue, Sample Reception, Barcoding, Ticketing" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="22" y="24" width="1048" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="sWXQUwif85CH72TuD-E2-1" value="LIMS &amp;amp; Clinical Systems" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="22" y="344" width="520" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="sWXQUwif85CH72TuD-E2-2" value="Bioinformatics" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="572" y="344" width="520" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="sWXQUwif85CH72TuD-E2-3" value="Decision Support SYstems" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1122" y="344" width="520" height="290" as="geometry" />
+          <mxGeometry x="1030" y="340" width="508" height="290" as="geometry" />
         </mxCell>
         <mxCell id="sWXQUwif85CH72TuD-E2-4" value="Lab Equipment &amp;amp; Integrations" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="22" y="654" width="520" height="290" as="geometry" />
@@ -873,10 +867,261 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bgs0j6h_M0YM2239oZcv-9" value="«Master Lab LIMS»&lt;br&gt;&lt;b&gt;EPIC BEAKER&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="390" width="180" height="90" as="geometry" />
+        <mxCell id="UvsgWR2kVAztpZXbi5xG-3" value="Clinical Systems, DBs &amp;amp; DSS" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="22" y="340" width="980" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Bgs0j6h_M0YM2239oZcv-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Bgs0j6h_M0YM2239oZcv-9">
+        <mxCell id="UvsgWR2kVAztpZXbi5xG-4" value="«Hereditaries»&lt;br&gt;&lt;b&gt;Phenotips&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="232" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsgWR2kVAztpZXbi5xG-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="UvsgWR2kVAztpZXbi5xG-4">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UvsgWR2kVAztpZXbi5xG-6" value="«xxx»&lt;br&gt;&lt;b&gt;Heidelberg Classifier&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="422" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UvsgWR2kVAztpZXbi5xG-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="UvsgWR2kVAztpZXbi5xG-6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3a4S-HOe9xrzPIoaLjs-1" value="«DSS»&lt;br&gt;&lt;b&gt;Franklin&lt;/b&gt;&lt;div&gt;target system&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i3a4S-HOe9xrzPIoaLjs-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="i3a4S-HOe9xrzPIoaLjs-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2er7N4XqOihTDcYBAdn-1" value="«Variant DB»&lt;br&gt;&lt;b&gt;SQVD&lt;/b&gt;&lt;div&gt;internal system&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="232" y="491" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="C2er7N4XqOihTDcYBAdn-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="C2er7N4XqOihTDcYBAdn-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AWS5IUTmiGh7PdjffG1B-1" value="«Cancer biomarker DSS»&lt;br&gt;&lt;b&gt;Oncodeep&lt;/b&gt;&lt;div&gt;GSST&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AWS5IUTmiGh7PdjffG1B-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="AWS5IUTmiGh7PdjffG1B-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9OmbQoqTPWXWrjSyz-4-1" value="«Variant DB»&lt;br&gt;&lt;b&gt;VASA&lt;/b&gt;&lt;div&gt;internal system&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="422" y="491" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b9OmbQoqTPWXWrjSyz-4-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="b9OmbQoqTPWXWrjSyz-4-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9OmbQoqTPWXWrjSyz-4-3" value="«SoftGenetics»&lt;br&gt;&lt;b&gt;GeneMarker&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="613" y="491" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b9OmbQoqTPWXWrjSyz-4-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="b9OmbQoqTPWXWrjSyz-4-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Mhw7HKV_XhY_P37vNtn-1" value="«SoftGenetics»&lt;br&gt;&lt;b&gt;Mutation Surveyor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="491" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Mhw7HKV_XhY_P37vNtn-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="9Mhw7HKV_XhY_P37vNtn-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOrpLSNbfp0KXavFjL0V-1" value="«Qiagen»&lt;br&gt;&lt;b&gt;Ingenuity Pathway Analysis&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="802" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HOrpLSNbfp0KXavFjL0V-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="HOrpLSNbfp0KXavFjL0V-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--3" value="LIMS" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="24" width="438" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--4" value="«Master Lab LIMS»&lt;br&gt;&lt;b&gt;EPIC BEAKER&lt;/b&gt;&lt;div&gt;selected vendor&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1128" y="70" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZS2GrR3kSVUeiKHooCY--4">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--6" value="«Legacy KCH LIMS»&lt;br&gt;&lt;b&gt;FileMaker Pro&lt;/b&gt;&lt;div&gt;(freeze &amp;amp; expose API)&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1128" y="175" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZS2GrR3kSVUeiKHooCY--6">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--8" value="«Legacy GSST LIMS»&lt;br&gt;&lt;b&gt;Geneworks&lt;/b&gt;&lt;div&gt;(3 instances, freeze &amp;amp; expose API)&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1328" y="175" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZS2GrR3kSVUeiKHooCY--9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="ZS2GrR3kSVUeiKHooCY--8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbMTTfYS5lGSoJb3A0WB-1" value="«Binfx Pipelines»&lt;br&gt;&lt;b&gt;DNA Nexus&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rbMTTfYS5lGSoJb3A0WB-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="rbMTTfYS5lGSoJb3A0WB-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbMTTfYS5lGSoJb3A0WB-3" value="«Local library»&lt;br&gt;&lt;b&gt;DeMux&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="386" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rbMTTfYS5lGSoJb3A0WB-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="rbMTTfYS5lGSoJb3A0WB-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-1" value="«Compute»&lt;br&gt;&lt;b&gt;AWS EC2&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="495" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="B07aQVCEoQMbv9jEn6Ty-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-3" value="«Storage»&lt;br&gt;&lt;b&gt;AWS S3&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="495" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="B07aQVCEoQMbv9jEn6Ty-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-5" value="«ERP Stock Mgmt»&lt;br&gt;&lt;b&gt;SAP&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="602" y="700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="B07aQVCEoQMbv9jEn6Ty-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-7" value="«Equipment Drivers»&lt;br&gt;&lt;b&gt;Data Innovations&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="B07aQVCEoQMbv9jEn6Ty-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-9" value="«Integration Logic»&lt;br&gt;&lt;div&gt;&lt;b&gt;Reference document describing LIMS to Equipment flow&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="242" y="700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="B07aQVCEoQMbv9jEn6Ty-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="B07aQVCEoQMbv9jEn6Ty-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wF5HffbOnzVGJi8151j-1" value="«Analytics Tools»&lt;br&gt;&lt;b&gt;EPIC Cogito&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7wF5HffbOnzVGJi8151j-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="7wF5HffbOnzVGJi8151j-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wF5HffbOnzVGJi8151j-3" value="«Integrated Genomics EHR»&lt;br&gt;&lt;b&gt;EPIC Genomics&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="802" y="491" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7wF5HffbOnzVGJi8151j-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="7wF5HffbOnzVGJi8151j-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7wF5HffbOnzVGJi8151j-5" value="«Reporting Tools»&lt;br&gt;&lt;b&gt;EPIC Reporting Workbench&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7wF5HffbOnzVGJi8151j-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="7wF5HffbOnzVGJi8151j-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/339579/tape-storage.svg;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1040" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/527530/ssd-round.svg;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1043.5" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/532872/network-wired.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1040" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-4" value="N x 10g Fibre Network in Hub &amp;amp; Cheyne Wing" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-5" value="Local SSD Storage to NGS for WES &amp;amp; WGS" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="203.5" y="1110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-6" value="Long term Tape Storage with backup for Genomics England" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-7" value="APIs" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="572" y="960" width="520" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-8" value="«NHS Number»&lt;br&gt;&lt;b&gt;NHS National Spine&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="602" y="1010" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="kmJNx2Z3ypKU9dGY8iHG-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-10" value="«WGS storage»&lt;div&gt;&lt;b&gt;Genomics England CIP APIs&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1010" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kmJNx2Z3ypKU9dGY8iHG-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="kmJNx2Z3ypKU9dGY8iHG-10">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x57pxVKqJKzBIkG-HGw7-1" value="«Reference data»&lt;div&gt;&lt;b&gt;Genomics England Panel App APIs&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="602" y="1117.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x57pxVKqJKzBIkG-HGw7-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="x57pxVKqJKzBIkG-HGw7-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x57pxVKqJKzBIkG-HGw7-3" value="«Time &amp;amp; forecasting»&lt;br&gt;&lt;b&gt;SAP&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="700" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x57pxVKqJKzBIkG-HGw7-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="x57pxVKqJKzBIkG-HGw7-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nASUqY45-2M77Rxaq1NF-1" value="«Lab Equipment»&lt;br&gt;&lt;b&gt;See full list of lab equipment&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="810" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nASUqY45-2M77Rxaq1NF-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="nASUqY45-2M77Rxaq1NF-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nASUqY45-2M77Rxaq1NF-3" value="«QMS»&lt;br&gt;&lt;b&gt;qPules&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="602" y="810" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nASUqY45-2M77Rxaq1NF-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="nASUqY45-2M77Rxaq1NF-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nASUqY45-2M77Rxaq1NF-5" value="«Identity Mgmt»&lt;br&gt;&lt;b&gt;Azure AAD&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="810" y="810" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nASUqY45-2M77Rxaq1NF-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="nASUqY45-2M77Rxaq1NF-5">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
